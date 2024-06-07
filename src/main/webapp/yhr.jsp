@@ -11,6 +11,6 @@
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
 <body>
-	난 양하람!
+	난 양하람! 
 </body>
 </html>
